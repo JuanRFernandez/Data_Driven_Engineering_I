@@ -1,6 +1,3 @@
-# Lithium Ion Battery Classification
-This project is designed to classify lithium ion batteries using the https://www.kaggle.com/datasets/divyansh22/crystal-system-properties-for-liion-batteries dataset. 
-
 ## Project Organization
 The project is organized as follows:
 
