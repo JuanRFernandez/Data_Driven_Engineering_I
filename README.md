@@ -4,11 +4,6 @@ This project is designed to classify lithium ion batteries using the https://www
 ## Project Organization
 The project is organized as follows:
 
-Lithium_Ion_Battery_Classification
-==============================
-
-DDE1 Lithium Ion classification problem
-
 Project Organization
 ------------
 
